@@ -16,3 +16,6 @@ Links to academic literature will be provided where available.
 
 ## insiderecaptcha - Reverse-engineering the new “captchaless” ReCaptcha system
 - [Repo](https://github.com/neuroradiology/InsideReCaptcha)
+
+## Cracking reCAPTCH
+- [Site](https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style)
